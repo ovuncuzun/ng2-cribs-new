@@ -1,4 +1,4 @@
-<img src="https://imgur.com/a/65t1mTG" />
+<img src="https://i.imgur.com/f18zEnO.jpg" />
 
 # Ng2CribsNew
 
